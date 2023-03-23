@@ -1,0 +1,22 @@
+body
+{
+   background-size: cover;
+   cursor: pointer;
+}
+
+h1 {
+    color: red;
+    font-size: 41px;
+}
+
+#myCanvas {
+    border-width: 10px;
+    border-radius: 20px;
+    border-style: ridge;
+    background-color: white;
+}
+
+#color, #width_of_line
+{
+    width: 650px;
+}
